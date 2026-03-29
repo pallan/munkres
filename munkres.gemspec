@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "munkres"
-  s.version     = "0.1.0"
+  s.version     = "0.2.0"
   s.authors     = ["Paul Damer", "Jim Wood"]
   s.email       = "pdamer@gmail.com"
   s.homepage    = "http://github.com/pdamer/munkres"
