@@ -19,11 +19,11 @@ being the cost of matching the corresponding members of the groups
 
 == REQUIREMENTS:
 
-Uses test/spec for testing.
+Ruby 3.1+. Uses Minitest for testing.
 
 == INSTALL:
 
-sudo gem install munkres
+  gem install munkres
 
 == DEVELOPERS:
 
