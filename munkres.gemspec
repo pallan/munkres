@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Paul Damer", "Jim Wood"]
   s.email       = "pdamer@gmail.com"
   s.homepage    = "http://github.com/pdamer/munkres"
+  s.required_ruby_version = ">= 3.1"
   s.summary     = "A Ruby implementation of the Hungarian Algorithm"
   s.description = "A ruby implementation of the kuhn-munkres or 'hungarian' algorithm for bipartite matching."
 
